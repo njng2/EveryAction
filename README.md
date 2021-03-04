@@ -16,7 +16,8 @@ Total: 3 emails
 
 
 #How to run: 
-Navigate to same directory of this file 
+
+Navigate to same directory of this file on terminal
 
 create a package.json file by running 
 ```npm init --yes ``` in the same directory of this repository
