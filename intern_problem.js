@@ -1,7 +1,7 @@
 
 var request = require('request');
 var username = 'apiuser';
-var password = '9E76FA81-5317-4BFE-BE0F-22A1020BE17D';
+var password = 'APIKEY HERE';
 var options = {
     url: 'https://api.myngp.com/v2/broadcastEmails',
     auth: {
