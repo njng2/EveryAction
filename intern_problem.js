@@ -18,7 +18,7 @@ request(options, function (err, res, body) {
         console.dir(err);
         return;
     }
-    //parsing the json file into a dictionary 
+    //parsing the json file into a hash table 
     var new_dictionary = JSON.parse(body);
 
     //getting items from json file
