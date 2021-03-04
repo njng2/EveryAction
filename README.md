@@ -15,7 +15,7 @@ Results Sample
 Total: 3 emails
 
 
-#How to run: 
+# How to run: 
 
 Navigate to same directory of this file on terminal
 
