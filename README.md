@@ -6,8 +6,10 @@ You work for an organization that sends emails to its supporters using NGP 7. Yo
 
 Results Sample
 
-2324646 "Tell Congress: Protect Gray Wolves"
-2324747 "Get Your Gray Wolf Tote Bag: Donate Now!"
+2324646 "Tell Congress: Protect Gray Wolves" 
+
+2324747 "Get Your Gray Wolf Tote Bag: Donate Now!" 
+
 2325647 "Join Us for a Howling Good Time at the Gray Wolf Social Hour!"
 
 Total: 3 emails
